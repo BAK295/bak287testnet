@@ -1,0 +1,2 @@
+# bak287testnet
+zamatest
